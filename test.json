@@ -1,0 +1,110 @@
+[
+      {
+        "id": 1,
+        "bigramtitle": "precio",
+        "counter": "8908289",
+        "sample1": "¿Cual es el precio del producto?",
+        "sample2": "¿Me podrían indicar el precio?",
+        "sample3": "precio de este producto",
+        "sample4": "Precio",
+        "sample5": "¿Cuál es el precio del producto x?",
+        "answer": "te enviaremos una cotización con los precios"
+    
+      },
+      {
+        "id": 2,
+        "nametrigger": "GetTime",
+        "triggertitle": "Tiempo de envío",
+        "sample1": "¿Cuanto tiempo demora el envío?",
+        "sample2": "¿Cuanto demora en llegar?",
+        "sample3": "¿En cuántos días hábiles lo mandan?",
+        "sample4": "¿Cuanto tarda en llegar el envío?",
+        "sample5": "¿Cuándo lo envían?",
+        "answer": "Los envíos tardan de 3 a 5 días hábiles"
+    
+      },
+        {
+        "id": 3,
+        "nametrigger":"GetLocation",
+        "triggertitle": "Ubicación de tu empresa",
+        "sample1": "¿Cuál es la dirección de su local?",
+        "sample2": "¿Dónde están ubicados?",
+        "sample3": "¿Dónde quedan sus oficinas?",
+        "sample4": "¿Me podrían pasar la dirección del lugar?",
+        "sample5": "¿Por qué zona están?",
+        "answer": "nos encintramos en la calle falsa 123"
+    
+      },
+      {
+        "id": 4,
+        "nametrigger":"MoreInfo",
+        "triggertitle": "Más información",
+        "sample1": "Necesito información",
+        "sample2": "Preciso hacer una consulta",
+        "sample3": "Me van a enviar información",
+        "sample4": "Más información",
+        "sample5": "Me pueden dar información",
+        "answer": "dejanos tus datos y te respondemos de vuelta"
+    
+      },  
+      {
+        "id": 5,
+        "nametrigger":"PaymentMethod",
+        "triggertitle": "Formas de pago",
+        "sample1": "¿Puedo pagar con tarjeta de crédito?",
+        "sample2": "Tienen alguna promoción",
+        "sample3": "¿Cuáles son las formas de pago?",
+        "sample4": "¿Se puede pagar en efectivo?",
+        "sample5": "¿Cómo realizo el pago?",
+        "answer": "recibimos todas las tarjetas y las criptomonedas más reconocidas"
+    
+      },  
+      {
+        "id": 6,
+        "nametrigger":"Delivery",
+        "triggertitle": "Envíos",
+        "sample1": "¿Hacen envíos?",
+        "sample2": "¿Realizan entregas en mi ciudad?",
+        "sample3": "¿Pueden enviarlo a mi casa?",
+        "sample4": "Tienen entrega inmediata",
+        "sample5": "Quiero recibirlo en mi domicilio",
+        "answer": "hacemos envíos a todo el país"
+    
+      },  
+      {
+        "id": 7,
+        "nametrigger":"GetCatalog",
+        "triggertitle": "Lista de precios",
+        "sample1": "Lista de precios",
+        "sample2": "Catálogo de productos",
+        "sample3": "¿Me pueden pasar una lista con sus precios?",
+        "sample4": "Necesito una lista de sus productos ",
+        "sample5": "Me pueden enviar el catálogo de precios",
+        "answer": "dejanos tus datos y te enviaremos una lista de preciso actualizada"
+    
+      },  
+      {
+        "id": 8,
+        "nametrigger":"GetRequirements",
+        "triggertitle": "Requisitos",
+        "sample1": "¿Cuáles son los requisitos?",
+        "sample2": "¿Cuáles son los requerimientos?",
+        "sample3": "¿Cuanto cuesta el producto xxx?",
+        "sample4": "¿Cuanto cuesta el producto xxx?",
+        "sample5": "¿Cuanto cuesta el producto xxx?",
+        "answer": "debe tener poseer un título de grado de una universidad acreditada"
+    
+      },  
+      {
+        "id": 9,
+        "nametrigger":"OpeningTime",
+        "triggertitle": "Horario de atención",
+        "sample1": "¿El lunes están en la ofi?",
+        "sample2": "¿Hasta qué hora están abiertos?",
+        "sample3": "¿Cuál es el horario de atención?",
+        "sample4": "¿Atienden los sábados?",
+        "sample5": "¿Cuándo abren?",
+        "answer": "Atendemos de lunes a viernes de 8 a 6, cerrado los feriados"
+    
+      }
+    ]
